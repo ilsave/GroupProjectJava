@@ -1,5 +1,6 @@
 package ru.gushin.ngtu.ivt;
 
+// Декоратор, создающий кавычки
 public class QuotesDecorator extends Decorator {
 
     public QuotesDecorator(PrinterInterface component) {

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2eb2838-89a7-400c-a754-d6944f4118bc" name="Default Changelist" comment="" />
+    <list default="true" id="b2eb2838-89a7-400c-a754-d6944f4118bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/LeftBraketDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/PrinterInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/PrinterInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/QuotesDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/QuotesDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/RightBraketDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/StudentPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/StudentPojo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/LeftBraketDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/LeftBracketDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/PrinterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/PrinterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/QuotesDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/QuotesDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/RightBraketDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/RightBraсketDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/StudentPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/StudentPojo.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZUKacVMXu6HzTIfSs6ajl7mkeR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,14 +46,32 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -48,18 +90,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,11 +102,23 @@
       <updated>1584888296791</updated>
       <workItem from="1584888306857" duration="5527000" />
       <workItem from="1584935306245" duration="10366000" />
+      <workItem from="1585122877153" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1584948819906">

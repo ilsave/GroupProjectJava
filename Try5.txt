@@ -1,0 +1,44 @@
+html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Hey there</title>
+ </head>
+ <body>
+  <h1>whats upper-alpha</h1>
+  <!-- ʮ쬥�𨩠-->
+	<p>package com.template.unitest.pojo;
+		<i><br>package ru.gushin.ngtu.ivt;</br>
+<br></br>
+<br>public class StudentPojo {</br>
+<br>    private String name;</br>
+<br>    private String otherPersonalInfo;</br>
+<br>    private String nameOfUni;</br>
+<br>    public StudentPojo(String name, String otherPersonalInfo, String nameOfUni) {</br>
+<br>        this.name = name;</br>
+<br>        this.otherPersonalInfo = otherPersonalInfo;</br>
+<br>        this.nameOfUni = nameOfUni;</br>
+<br>    }</br>
+<br>    public String getName() {</br>
+<br>        return name;</br>
+<br>    }</br>
+<br>    public String getOtherPersonalInfo() {</br>
+<br>        return otherPersonalInfo;</br>
+<br>    }</br>
+<br>    public String getNameOfUni() {</br>
+<br>        return nameOfUni;</br>
+<br>    }</br>
+<br>    public void setName(String name) {</br>
+<br>        this.name = name;</br>
+<br>    }</br>
+<br>    public void setOtherPersonalInfo(String otherPersonalInfo) {</br>
+<br>        this.otherPersonalInfo = otherPersonalInfo;</br>
+<br>    }</br>
+<br>    public void setNameOfUni(String nameOfUni) {</br>
+<br>        this.nameOfUni = nameOfUni;</br>
+<br>    }</br>
+<br>}</br>
+		</i>
+	</p>
+  
+ </body>
+</html>

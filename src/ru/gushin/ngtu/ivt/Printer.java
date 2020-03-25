@@ -4,18 +4,15 @@ import java.util.List;
 
 public class Printer implements PrinterInterface {
 
+    // значение, которое будет выводиться на экран
     String value;
 
- //   private List<String> list;
-
+    // конструктор с аргументом
     public Printer(String value) {
         this.value = value;
     }
 
-//    public Printer(List<String> list){
-//        this.list = list;
-//    }
-
+    // переназначение функции
     @Override
     public void print() {
         System.out.print(value);
