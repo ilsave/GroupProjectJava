@@ -8,7 +8,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-
+        System.out.println();
         // Пробуем запустить все декораторы. Фраза помещается в кавычки и квадратные скобки
         PrinterInterface printer = new QuotesDecorator(new LeftBracketDecorator( new RightBraсketDecorator( new Printer("Hey there !"))));
         // Фраза выводится на экран

@@ -121,10 +121,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585411715829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585411715829" />
     <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1584948819906">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584948819906" />
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585411681004">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1585411681004" />
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585411721472">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1585411721472" />
     <state width="1237" height="136" key="GridCell.Tab.0.bottom" timestamp="1584955670616">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
