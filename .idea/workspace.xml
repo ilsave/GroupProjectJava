@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2eb2838-89a7-400c-a754-d6944f4118bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Decorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/LeftBraketDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/PrinterInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/PrinterInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/QuotesDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/QuotesDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/RightBraketDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/StudentPojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab2/ru/gushin/ngtu/ivt/StudentPojo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/LeftBraketDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/LeftBracketDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/PrinterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/PrinterInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/QuotesDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/QuotesDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/RightBraketDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/RightBraсketDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/StudentPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/gushin/ngtu/ivt/StudentPojo.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,18 +43,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ru.gushin.ngtu.ivt.Main" />
@@ -90,6 +60,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -103,6 +85,8 @@
       <workItem from="1584888306857" duration="5527000" />
       <workItem from="1584935306245" duration="10366000" />
       <workItem from="1585122877153" duration="3422000" />
+      <workItem from="1585411624198" duration="1399000" />
+      <workItem from="1585487677975" duration="1259000" />
     </task>
     <servers />
   </component>
@@ -114,7 +98,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -125,10 +111,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585411715829" />
-    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1584948819906">
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1585488271643">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584948819906" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585488271643" />
     <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585411681004">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -137,29 +123,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="490" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1585411721472" />
-    <state width="1237" height="136" key="GridCell.Tab.0.bottom" timestamp="1584955670616">
+    <state width="1237" height="105" key="GridCell.Tab.0.bottom" timestamp="1585424336808">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584955670616" />
-    <state width="1237" height="136" key="GridCell.Tab.0.center" timestamp="1584955670615">
+    <state width="1237" height="105" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585424336808" />
+    <state width="1237" height="105" key="GridCell.Tab.0.center" timestamp="1585424336807">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584955670615" />
-    <state width="1237" height="136" key="GridCell.Tab.0.left" timestamp="1584955670615">
+    <state width="1237" height="105" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585424336807" />
+    <state width="1237" height="105" key="GridCell.Tab.0.left" timestamp="1585424336807">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584955670615" />
-    <state width="1237" height="136" key="GridCell.Tab.0.right" timestamp="1584955670615">
+    <state width="1237" height="105" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585424336807" />
+    <state width="1237" height="105" key="GridCell.Tab.0.right" timestamp="1585424336807">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="136" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584955670615" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1584935309040">
+    <state width="1237" height="105" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585424336807" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1585487680414">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584935309040" />
-    <state x="91" y="0" key="new project wizard" timestamp="1584954932448">
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585487680414" />
+    <state x="91" y="0" key="new project wizard" timestamp="1585487705435">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584954932448" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585487705435" />
   </component>
 </project>

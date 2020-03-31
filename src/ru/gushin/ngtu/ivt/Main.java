@@ -15,6 +15,10 @@ public class Main {
         printer.print();
         System.out.println('\n');
 
+        List<String> line3 = new LinkedList<>();
+        for( i < array.lenght()){
+            line3.add(arrray[i])
+        }
 
 
         BufferedReader br = null;  // Далее идет работа с файлом
